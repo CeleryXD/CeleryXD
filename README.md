@@ -13,6 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CeleryXD&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=CeleryXD&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=CeleryXD&icon=2&color=1)](https://visitcount.itsvg.in)
